@@ -3,7 +3,7 @@ baseURL = "https://internpresentation.azurewebsites.net/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
-title = "Intern things"
+title = "Intern and others"
 
 # css plugins
 [[params.plugins.css]]
