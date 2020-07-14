@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://interntest.azurewebsites.net"
+baseURL = "https://internpresentation.azurewebsites.net/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
