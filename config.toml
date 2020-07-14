@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://lcsfy.github.io/interntest.github.io/"
+baseURL = "https://interntest.azurewebsites.net"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
